@@ -1,7 +1,7 @@
 <!-- NEOFETCH ASCII TERMINAL CARD -->
 <div align="center">
 
-![Neofetch Profile Card](https://neofetch-profile.vercel.app/api?username=deep-lade&config=https%3A%2F%2Fraw.githubusercontent.com%2Fdeep-lade%2Fdeep-lade%2Fmain%2Fneofetch.json&show_stats=false&v=6)
+![Neofetch Profile Card](https://neofetch-profile.vercel.app/api?username=deep-lade&config=https%3A%2F%2Fraw.githubusercontent.com%2Fdeep-lade%2Fdeep-lade%2Fmain%2Fneofetch.json&show_stats=false&v=7)
 
 </div>
 

@@ -28,9 +28,6 @@ First-year Computer Science & AI/ML undergraduate exploring foundational program
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🚀 Featured Project
-[![Solar Exploration](https://github-readme-stats.vercel.app/api/pin/?username=deep-lade&repo=Solar_Exploration&theme=midnight-purple&hide_border=true)](https://github.com/deep-lade/Solar_Exploration)
-
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=deep-lade&color=0077b5&style=flat-square)
 

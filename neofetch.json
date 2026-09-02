@@ -1,0 +1,19 @@
+{
+  "sections": [
+    {
+      "title": "deep-lade@github",
+      "fields": [
+        { "key": "Status", "value": "CSE AIML Undergrad / FY Student" },
+        { "key": "Focus", "value": "C Programming & Web Dev" },
+        { "key": "IDEs & Editors", "value": "Code::Blocks, Notepad++, VS Code" },
+        { "key": "Tools", "value": "Git, PyCharm" }
+      ]
+    },
+    {
+      "fields": [
+        { "key": "Languages", "value": "C, HTML5, CSS3, Python" },
+        { "key": "Vibe", "value": "Building algorithms & clean layouts" }
+      ]
+    }
+  ]
+}

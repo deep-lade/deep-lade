@@ -13,8 +13,8 @@
     {
       "fields": [
         { "key": "Languages.Programming", "value": "C, Python" },
-        { "key": "Languages.Computer", "value": "HTML5," },
-        { "key": "Languages.Real", "value": "English, Gujurati, Hindi" }
+        { "key": "Languages.Computer", "value": "HTML5, CSS3" },
+        { "key": "Languages.Real", "value": "English, Gujarati, Hindi" }
       ]
     },
     {
@@ -22,5 +22,8 @@
         { "key": "Interests.Me", "value": "Torque curves, late-night playlists, and 12-hour recovery sleeps" }
       ]
     }
-  ]
+  ],
+  "stats": {
+    "enabled": false
+  }
 }

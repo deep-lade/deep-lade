@@ -19,7 +19,13 @@
     },
     {
       "fields": [
-        { "key": "Interests.Me", "value": "Torque curves, late-night playlists, and 12-hour recovery sleeps" }
+        { "key": "Vibe", "value": "Torque curves & late-night playlists" },
+        { "key": "Recovery", "value": "12-hour championship sleeps" }
+      ]
+    },
+    {
+      "fields": [
+        { "key": "Current.Quest", "value": "Grindin'  assignments & chasing some CGPA" }
       ]
     }
   ],

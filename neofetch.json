@@ -3,16 +3,23 @@
     {
       "title": "deep-lade@github",
       "fields": [
-        { "key": "Status", "value": "CSE AIML Undergrad / FY Student" },
-        { "key": "Focus", "value": "C Programming & Web Dev" },
-        { "key": "IDEs & Editors", "value": "Code::Blocks, Notepad++, VS Code" },
-        { "key": "Tools", "value": "Git, PyCharm" }
+        { "key": "OS", "value": "Windows 11, CSE AIML Undergrad" },
+        { "key": "Uptime", "value": "17 years of running on caffeine and denial" },
+        { "key": "Host", "value": "Torque curves & logic loops" },
+        { "key": "Kernel", "value": "Overclocked Brain" },
+        { "key": "IDEs", "value": "Code::Blocks, VS Code, PyCharm, Notepad ++" }
       ]
     },
     {
       "fields": [
-        { "key": "Languages", "value": "C, HTML5, CSS3, Python" },
-        { "key": "Vibe", "value": "Building algorithms & clean layouts" }
+        { "key": "Languages.Programming", "value": "C, Python" },
+        { "key": "Languages.Computer", "value": "HTML5," },
+        { "key": "Languages.Real", "value": "English, Gujurati, Hindi" }
+      ]
+    },
+    {
+      "fields": [
+        { "key": "Interests.Me", "value": "Torque curves, late-night playlists, and 12-hour recovery sleeps" }
       ]
     }
   ]
